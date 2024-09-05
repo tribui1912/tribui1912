@@ -11,7 +11,7 @@ Python, C, C++, Java,
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my homelab and my first mobile app
 
-🧠 I'm currently learning HTML, JavaScript, Docker, VE
+🧠 I'm currently learning HTML, JavaScript, Dart, Docker, VE
 
 📫 How to reach me: tribui1299@proton.me
 
