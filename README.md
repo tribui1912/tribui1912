@@ -1,17 +1,17 @@
 # Hi, I'm Tri Bui! 👋
 
-I am current an Computer Engineering Student at SDSU
+I am currently an Computer Engineering Student at SDSU
 ## 🚀 About Me
 
 After taking some time in med-school i decided to follow what I have always interested in since I was a kid. And here I am writing code for fun and makes stuff that interest me.
 
 ## 🛠 Skills
-Python, C, C++, Java
+Python, C, C++, Java, HTML, JavaScript, Dart, Docker, VE, Typescript, Next.JS
 
 ## Other Informations
 👩‍💻 I'm currently working on my homelab and my first mobile app
 
-🧠 I'm currently learning HTML, JavaScript, Dart, Docker, VE
+🧠 I'm currently learning Verilog, Rust, Go, React-Native
 
 📫 How to reach me: tribui1299@proton.me
 
